@@ -1,4 +1,4 @@
 ---
-# defaults file for nginx
-service_name: ngnix
+# defaults file for vagrant
+service_name: vagrant
 ...
