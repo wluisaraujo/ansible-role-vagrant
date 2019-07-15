@@ -1,7 +1,10 @@
 ---
-# tasks file for vagrant
-
-- name: "This is vagrant"
-  shell: echo
-
+# tasks file for ansible-role-vagrant
+- name: "Install the vagrant package"
+  package:
+    name: "{{ item }}"
+    state: present
+    update_cache: yes
+  loop:
+    - vagrants
 ...
