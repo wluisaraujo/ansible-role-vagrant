@@ -1,12 +1,12 @@
-[![Ansible Galaxy](https://img.shields.io/badge/Ansible%20Galaxy-NGINX-blue.svg)](https://galaxy.ansible.com/wluisaraujo/nginx) [![Build Status](https://travis-ci.org/wluisaraujo/ansible-role-nginx.svg?branch=master)](https://travis-ci.org/wluisaraujo/ansible-role-nginx)
+[![Ansible Galaxy](https://img.shields.io/badge/Ansible%20Galaxy-Vagrant-blue.svg)](https://galaxy.ansible.com/wluisaraujo/vagrant) [![Build Status](https://travis-ci.org/wluisaraujo/ansible-role-vagrant.svg?branch=master)](https://travis-ci.org/wluisaraujo/ansible-role-vagrant)
 ---
-# IaC: with [Ansible](https://www.ansible.com) role to install and configure [NGINX](https://nginx.org)
+# IaC: with [Ansible](https://www.ansible.com) role to install and configure [Vagrant](https://www.vagrantup.com/)
 ------------
 
 Description
 ------------
 
- * Ansible role for NGINX
+ * Ansible role for Vagrant
  
 Requirements
 ------------
